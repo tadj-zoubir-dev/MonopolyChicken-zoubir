@@ -10,7 +10,7 @@ The website focuses on a clean user interface, smooth user experience, and respo
 
 You can view the live website here:
 
-👉 https://your-demo-link.com
+👉  https://monopoly-chicken-zoubir.vercel.app/
 
 
 
